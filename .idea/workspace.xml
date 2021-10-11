@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2573b958-9af7-4d04-a82d-183e854c8d19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/.gvm/gos/go1.16" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1zLRXPBOxcuueBig11Jg74v8LEq" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestJobs in github.com/chenminhua/jobs (3)">
+    <configuration name="TestJobs in github.com/chenminhua/jobs (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="jobs" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/chenminhua/jobs" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestJobs\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestJobs in github.com/chenminhua/jobs (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="jobs" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/chenminhua/jobs" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestJobs\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestJobs in github.com/chenminhua/jobs (3)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="jobs" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/chenminhua/jobs" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestJobs\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestJobs in github.com/chenminhua/jobs" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="jobs" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/chenminhua/jobs" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestJobs\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestJobs in github.com/chenminhua/jobs (3)" />
+        <item itemvalue="Go Test.TestJobs in github.com/chenminhua/jobs (2)" />
+        <item itemvalue="Go Test.TestJobs in github.com/chenminhua/jobs (1)" />
+        <item itemvalue="Go Test.TestJobs in github.com/chenminhua/jobs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2573b958-9af7-4d04-a82d-183e854c8d19" name="Default Changelist" comment="" />
+      <created>1633925422183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633925422183</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1438" height="354" key="GridCell.Tab.0.bottom" timestamp="1633940285657">
+      <screen x="-1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1438" height="354" key="GridCell.Tab.0.bottom/-1920.25.1920.1055/0.25.1792.1095@-1920.25.1920.1055" timestamp="1633940285657" />
+    <state width="1438" height="354" key="GridCell.Tab.0.center" timestamp="1633940285655">
+      <screen x="-1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1438" height="354" key="GridCell.Tab.0.center/-1920.25.1920.1055/0.25.1792.1095@-1920.25.1920.1055" timestamp="1633940285655" />
+    <state width="1438" height="354" key="GridCell.Tab.0.left" timestamp="1633940285655">
+      <screen x="-1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1438" height="354" key="GridCell.Tab.0.left/-1920.25.1920.1055/0.25.1792.1095@-1920.25.1920.1055" timestamp="1633940285655" />
+    <state width="1438" height="354" key="GridCell.Tab.0.right" timestamp="1633940285656">
+      <screen x="-1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1438" height="354" key="GridCell.Tab.0.right/-1920.25.1920.1055/0.25.1792.1095@-1920.25.1920.1055" timestamp="1633940285656" />
+  </component>
+</project>
