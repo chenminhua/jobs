@@ -33,7 +33,7 @@
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Go Test.TestJobs in github.com/chenminhua/jobs (3)">
+  <component name="RunManager" selected="Go Test.TestJobs in github.com/chenminhua/jobs (5)">
     <configuration name="TestJobs in github.com/chenminhua/jobs (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="jobs" />
       <working_directory value="$PROJECT_DIR$" />
@@ -67,7 +67,18 @@
       <pattern value="^\QTestJobs\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestJobs in github.com/chenminhua/jobs" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestJobs in github.com/chenminhua/jobs (4)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="jobs" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/chenminhua/jobs" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestJobs\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestJobs in github.com/chenminhua/jobs (5)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="jobs" />
       <working_directory value="$PROJECT_DIR$" />
       <framework value="gotest" />
@@ -80,10 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestJobs in github.com/chenminhua/jobs (5)" />
+        <item itemvalue="Go Test.TestJobs in github.com/chenminhua/jobs (4)" />
         <item itemvalue="Go Test.TestJobs in github.com/chenminhua/jobs (3)" />
         <item itemvalue="Go Test.TestJobs in github.com/chenminhua/jobs (2)" />
         <item itemvalue="Go Test.TestJobs in github.com/chenminhua/jobs (1)" />
-        <item itemvalue="Go Test.TestJobs in github.com/chenminhua/jobs" />
       </list>
     </recent_temporary>
   </component>
@@ -105,21 +117,25 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1438" height="354" key="GridCell.Tab.0.bottom" timestamp="1633940285657">
+    <state width="1750" height="300" key="GridCell.Tab.0.bottom" timestamp="1633955872784">
       <screen x="-1920" y="25" width="1920" height="1055" />
     </state>
-    <state width="1438" height="354" key="GridCell.Tab.0.bottom/-1920.25.1920.1055/0.25.1792.1095@-1920.25.1920.1055" timestamp="1633940285657" />
-    <state width="1438" height="354" key="GridCell.Tab.0.center" timestamp="1633940285655">
+    <state width="1750" height="300" key="GridCell.Tab.0.bottom/-1920.25.1920.1055/0.25.1792.1095@-1920.25.1920.1055" timestamp="1633955872784" />
+    <state width="1750" height="314" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1633948494057" />
+    <state width="1750" height="300" key="GridCell.Tab.0.center" timestamp="1633955872783">
       <screen x="-1920" y="25" width="1920" height="1055" />
     </state>
-    <state width="1438" height="354" key="GridCell.Tab.0.center/-1920.25.1920.1055/0.25.1792.1095@-1920.25.1920.1055" timestamp="1633940285655" />
-    <state width="1438" height="354" key="GridCell.Tab.0.left" timestamp="1633940285655">
+    <state width="1750" height="300" key="GridCell.Tab.0.center/-1920.25.1920.1055/0.25.1792.1095@-1920.25.1920.1055" timestamp="1633955872783" />
+    <state width="1750" height="314" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1633948494056" />
+    <state width="1750" height="300" key="GridCell.Tab.0.left" timestamp="1633955872783">
       <screen x="-1920" y="25" width="1920" height="1055" />
     </state>
-    <state width="1438" height="354" key="GridCell.Tab.0.left/-1920.25.1920.1055/0.25.1792.1095@-1920.25.1920.1055" timestamp="1633940285655" />
-    <state width="1438" height="354" key="GridCell.Tab.0.right" timestamp="1633940285656">
+    <state width="1750" height="300" key="GridCell.Tab.0.left/-1920.25.1920.1055/0.25.1792.1095@-1920.25.1920.1055" timestamp="1633955872783" />
+    <state width="1750" height="314" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1633948494056" />
+    <state width="1750" height="300" key="GridCell.Tab.0.right" timestamp="1633955872783">
       <screen x="-1920" y="25" width="1920" height="1055" />
     </state>
-    <state width="1438" height="354" key="GridCell.Tab.0.right/-1920.25.1920.1055/0.25.1792.1095@-1920.25.1920.1055" timestamp="1633940285656" />
+    <state width="1750" height="300" key="GridCell.Tab.0.right/-1920.25.1920.1055/0.25.1792.1095@-1920.25.1920.1055" timestamp="1633955872783" />
+    <state width="1750" height="314" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1633948494057" />
   </component>
 </project>
